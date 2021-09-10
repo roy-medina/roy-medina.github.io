@@ -16,7 +16,7 @@ I have graduated from the University of San Diego with a BS/BA in Industrial and
 
 In my free time, I love to long board and spend time with family and friends. 
 
-Learn more about my work experience here: [Link](https://roy-medina.github.io/profile)
+Learn more about my work experience [here](https://roy-medina.github.io/resume).
 
 ## Skills
 
