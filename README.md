@@ -6,7 +6,7 @@ Please feel free to scroll around to learn more about who I am and see all the w
   src="https://roy-medina.github.io/profile" width="100%" height="500px"
 </iframe>
 
-##  About Myself  
+##  About Me
 
 I am based in San Diego, CA and have been here for over 20 years.
 
@@ -15,6 +15,8 @@ I am currently a Data Engineer at Dexcom as part of the manufacturing data analy
 I have graduated from the University of San Diego with a BS/BA in Industrial and Systems Engineering. I have a passion for programming and using it to automate data collection and data analysis. I believe the future involves automating simple tasks to allow other people to reach their greater potential. 
 
 In my free time, I love to long board and spend time with family and friends. 
+
+Learn more about my work experience here: [Link](https://roy-medina.github.io/profile)
 
 ## Skills
 
