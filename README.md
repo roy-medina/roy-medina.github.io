@@ -39,3 +39,9 @@ Learn more about my work experience [here](https://roy-medina.github.io/resume).
 - Microsoft Office Suite
 - Tableau
 - Microsoft Power Apps
+
+
+## View all my projects here
+
+
+[Using Machine Learning to Automate a game of ping pong](https://roy-medina.github.io/resume).
