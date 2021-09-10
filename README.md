@@ -1,10 +1,14 @@
-## Thanks for visiting my page ##
+Roy Medina
+
+Please feel free to scroll around to learn more about who I am and see all the wonderful projects that I have developed. 
 
 
 
+##  About Myself  ##
 
+I am currently a Data Engineer at Dexcom as part of the manufacturing data analytics team. I have been a part of the Dexcom team since 2020 and have loved being part of an amazing organization. 
 
-
+I have graduated from the University of San Diego with a BS/BA in Industrial and Systems Engineering. 
 
 
 
