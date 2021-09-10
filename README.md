@@ -2,9 +2,9 @@
 
 Please feel free to scroll around to learn more about who I am and see all the wonderful projects that I have developed. 
 
-<iframe>
+<!-- <iframe>
   src="https://roy-medina.github.io/profile" width="100%" height="500px"
-</iframe>
+</iframe> -->
 
 ##  About Me
 
