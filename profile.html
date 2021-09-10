@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
+
+        <script type="text/javascript">
+            function zoom() {
+                document.body.style.zoom = "200%"
+            }            
+        </script>
+
         <style>
+        
         .card {
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
         max-width: 300px;
@@ -42,7 +50,7 @@
     </head>
 
 
-    <body>
+    <body onload="zoom()">
 
         <!-- <h1>This is a Heading</h1>
             <p>This is a paragraph.</p>
